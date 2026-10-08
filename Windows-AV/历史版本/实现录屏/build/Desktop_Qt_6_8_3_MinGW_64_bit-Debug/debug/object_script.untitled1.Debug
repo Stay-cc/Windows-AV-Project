@@ -1,0 +1,14 @@
+debug/DxGiCapturer.o
+debug/FFmpegRecorder.o
+debug/ResizablePixmapItem.o
+debug/VideoSourceWorker.o
+debug/WasapiCapturer.o
+debug/WgcCapturer.o
+debug/main.o
+debug/mainwindow.o
+debug/moc_DxGiCapturer.o
+debug/moc_FFmpegRecorder.o
+debug/moc_ResizablePixmapItem.o
+debug/moc_VideoSourceWorker.o
+debug/moc_WasapiCapturer.o
+debug/moc_mainwindow.o

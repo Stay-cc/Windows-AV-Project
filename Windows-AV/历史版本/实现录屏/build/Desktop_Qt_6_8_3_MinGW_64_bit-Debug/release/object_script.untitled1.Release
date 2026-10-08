@@ -1,0 +1,14 @@
+release/DxGiCapturer.o
+release/FFmpegRecorder.o
+release/ResizablePixmapItem.o
+release/VideoSourceWorker.o
+release/WasapiCapturer.o
+release/WgcCapturer.o
+release/main.o
+release/mainwindow.o
+release/moc_DxGiCapturer.o
+release/moc_FFmpegRecorder.o
+release/moc_ResizablePixmapItem.o
+release/moc_VideoSourceWorker.o
+release/moc_WasapiCapturer.o
+release/moc_mainwindow.o
